@@ -1,0 +1,6 @@
+package com.a;
+
+public class Samurai extends Human{
+
+	int health;
+}

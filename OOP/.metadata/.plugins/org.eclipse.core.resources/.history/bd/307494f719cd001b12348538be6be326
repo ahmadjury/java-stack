@@ -1,0 +1,15 @@
+package com.Object;
+
+public class Human {
+	int strength;
+	int stealth;
+	int intelligence;
+	
+	public Human(int strength, int stealth, int intelligence) {
+		super();
+		this.strength = 3;
+		this.stealth = 3;
+		this.intelligence = 3;
+	}
+
+}

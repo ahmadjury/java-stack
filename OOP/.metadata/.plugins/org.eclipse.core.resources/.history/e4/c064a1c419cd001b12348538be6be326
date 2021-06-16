@@ -1,0 +1,8 @@
+package com.Object;
+
+public class Human {
+	int strength;
+	int stealth;
+	int intelligence;
+
+}

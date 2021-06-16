@@ -1,0 +1,8 @@
+package com.a;
+
+	public class Ninja extends Human{
+		int health;
+		int intelligence;
+	}
+	
+	

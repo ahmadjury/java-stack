@@ -1,0 +1,20 @@
+package com.Object;
+
+	public class Human {
+		static int strength;
+		static int stealth;
+		static int intelligence;
+		static int health;
+		
+	public Human() {
+		super();
+		this.strength = 3;
+		this.stealth = 3;
+		this.intelligence = 3;
+		this.health =100;
+		}
+	public int attack(Human h) {
+		health-= h.strength;
+		return health;
+	}
+}

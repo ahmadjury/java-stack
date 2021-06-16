@@ -1,0 +1,9 @@
+package com.a;
+
+	public class Ninja extends Human{
+		int stealth;
+
+		public Ninja() {
+			this.stealth = 10;
+		}
+	}

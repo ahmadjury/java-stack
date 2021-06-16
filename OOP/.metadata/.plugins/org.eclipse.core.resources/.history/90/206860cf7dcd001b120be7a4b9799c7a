@@ -1,0 +1,15 @@
+package com.a;
+
+public class HumanTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Human H1 = new Human();
+		
+		Ninja N1 = new Ninja();
+		N1.steal(H1);
+		
+		N1.runAway();
+		}
+
+}

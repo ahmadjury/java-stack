@@ -1,0 +1,19 @@
+package com.a;
+
+	public class Ninja extends Human{
+		int stealth;
+
+		public Ninja() {
+			this.stealth = 10;
+			
+		public void steal(Human x) {
+			 x.health -=this.stealth;
+			this.health+= this.stealth;
+			
+		}
+		puplic void runAway() {
+			this.health-=10;
+		}
+			
+		}
+	}

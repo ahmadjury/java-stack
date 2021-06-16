@@ -1,0 +1,11 @@
+package com.a;
+
+public class Wizard extends Human{
+ {
+		super();
+		
+		// TODO Auto-generated constructor stub
+	}
+	
+
+}

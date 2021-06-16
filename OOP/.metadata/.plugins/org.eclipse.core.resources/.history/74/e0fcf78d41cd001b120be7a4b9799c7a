@@ -1,0 +1,10 @@
+package com.a;
+
+public class Samurai extends Human{
+
+	int health;
+
+	public Samurai() {
+		this.health = 200;
+	}
+}

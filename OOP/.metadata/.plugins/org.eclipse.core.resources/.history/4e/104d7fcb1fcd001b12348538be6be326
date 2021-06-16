@@ -1,0 +1,12 @@
+package com.Object;
+
+public class HumanTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Human iD = new Human();
+		Human iD2 = new Human();
+		System.out.print(iD.attack(iD2));
+	}
+
+}

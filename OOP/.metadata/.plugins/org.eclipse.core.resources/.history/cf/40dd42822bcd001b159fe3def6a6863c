@@ -1,0 +1,12 @@
+package com.a;
+
+	public class Ninja extends Human{
+		int health;
+		int intelligence;
+	
+		public Ninja(int health,int intelligence) {
+			this.health=health;
+			this.intelligence=intelligence;
+		}
+
+	}

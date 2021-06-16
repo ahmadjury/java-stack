@@ -1,0 +1,24 @@
+package com.a;
+
+public class Samurai extends Human{
+
+	int health;
+	int static counter=0;
+	public Samurai() {
+		this.health = 200;
+		counter++;
+	}
+	public deathBlow(Human x) {
+		Human x.health = 0;
+		this.health+=health/2;
+	}	
+	public meditate() {
+		this.health =this.health + (this.health/2);	
+	
+	}
+	
+	public int howMany() {
+		return counter;
+	}
+}
+

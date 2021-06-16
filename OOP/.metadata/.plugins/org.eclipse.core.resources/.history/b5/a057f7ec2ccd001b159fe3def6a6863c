@@ -1,0 +1,13 @@
+package com.a;
+
+	public class Human {
+		int health;
+		int intelligence;
+	
+		public Human(int health,int intelligence) {
+			this.health=health;
+			this.intelligence=intelligence;
+		}
+	
+	}
+

@@ -1,0 +1,600 @@
+!SESSION 2021-06-15 05:58:48.358 -----------------------------------------------
+eclipse.buildId=4.10.0.202103111225
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-15 05:59:47.273
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-15 05:59:47.273
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43719e98,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@49353d43,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-06-15 05:59:56.196
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ENG. AHMAD'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-06-15 06:06:05.933
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:06.671
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:07.736
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:08.433
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:09.014
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:09.751
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:10.337
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:11.939
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.681
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.688
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.694
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.701
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.708
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.714
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.721
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.728
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.734
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.741
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.747
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.754
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.760
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.768
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.776
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.789
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.796
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.803
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.810
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.816
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.822
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.828
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.834
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.841
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.847
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.853
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.860
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.880
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.886
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.892
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.899
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.905
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.912
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.925
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.935
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.941
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.948
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.955
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.966
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.972
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.978
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:12.984
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.005
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.011
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.017
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.024
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.036
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.042
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.051
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.060
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.068
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.074
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.081
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.087
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.093
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.099
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.105
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.126
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.132
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.139
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.145
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.152
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.158
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.164
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.170
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.177
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.183
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.191
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.198
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.205
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.214
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.232
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-15 06:07:13.256
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/helloworld
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:12.246
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:12.247
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@202fe6a7[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=555)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:12.267
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:12.310
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.007
+!MESSAGE Boot LS startup time from start to initialized: 7722ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.185
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.uEnxWniOisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.189
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.192
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.193
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.194
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.uEnxWniO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.196
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.205
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.210
+!MESSAGE buffering callback sts4.classpath.uEnxWniO helloworld false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.212
+!MESSAGE executing callback sts4.classpath.uEnxWniO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 06:19:20.758
+!MESSAGE executing callback sts4.classpath.uEnxWniO SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-06-15 06:25:11.391
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 08:00:15.692
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.uEnxWniO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 08:00:15.694
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.uEnxWniO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 08:00:15.695
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 08:00:15.696
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.uEnxWniO => OK
+!SESSION 2021-06-15 11:26:57.728 -----------------------------------------------
+eclipse.buildId=4.10.0.202103111225
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-15 11:27:13.325
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-15 11:27:13.325
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47e725af,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@247dcbba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:27.426
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:27.426
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@32af30d[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=555)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:27.441
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:27.754
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-06-15 11:27:32.074
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ENG. AHMAD'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.741
+!MESSAGE Boot LS startup time from start to initialized: 17283ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.948
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iiqqTEMnisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.953
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.956
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.957
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.958
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iiqqTEMn => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.961
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.989
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.992
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn helloworld false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:44.993
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:27:46.750
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 4 0 2021-06-15 11:32:16.839
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at java.base/java.util.Objects.requireNonNull(Objects.java:208)
+	at java.base/java.util.ImmutableCollections$MapN.<init>(ImmutableCollections.java:1019)
+	at java.base/java.util.Map.of(Map.java:1327)
+	at org.eclipse.m2e.editor.lemminx.InitializationOptionsProvider.toLemMinXOptions(InitializationOptionsProvider.java:26)
+	at org.eclipse.m2e.editor.lemminx.InitializationOptionsProvider.get(InitializationOptionsProvider.java:22)
+	at org.eclipse.m2e.editor.lemminx.InitializationOptionsProvider.get(InitializationOptionsProvider.java:1)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getInitiatizationOptions(XMLExtensionRegistry.java:135)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getInitializationOptions(XMLLanguageServer.java:158)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$5(LanguageServerWrapper.java:352)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1146)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1769)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY org.eclipse.ui 2 2 2021-06-15 11:32:22.374
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:36.116
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:36.117
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:36.118
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn Strings false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:36.119
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:36.147
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:38.303
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:38.317
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:38.321
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn Strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:38.322
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:38.395
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-06-15 11:32:38.988
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-06-15 11:32:38.989
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.preview.adapter.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-06-15 11:32:38.990
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-06-15 11:32:38.991
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.http.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-06-15 11:32:38.992
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.preview.adapter.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:39.704
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:39.710
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:39.714
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn Strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:39.715
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:39.754
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.018
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.025
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.029
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn Strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.030
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.115
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.201
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.208
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.212
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn Strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.213
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:40.253
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:43.957
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:43.963
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:43.966
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn Strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:43.967
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:44.002
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:44.580
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:44.588
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:44.591
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn Strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:44.592
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:44.647
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:45.167
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:45.174
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:45.181
+!MESSAGE buffering callback sts4.classpath.iiqqTEMn Strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:45.185
+!MESSAGE executing callback sts4.classpath.iiqqTEMn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:32:45.222
+!MESSAGE executing callback sts4.classpath.iiqqTEMn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:58:25.677
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iiqqTEMn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:58:25.678
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.iiqqTEMn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:58:25.679
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 11:58:25.680
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iiqqTEMn => OK
