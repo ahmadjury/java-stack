@@ -1,0 +1,23 @@
+.container{
+	display: flex;	
+}
+
+.head{
+	display: flex;
+		
+}
+
+.head h2{
+	border:solid;
+	 padding-right: 50px;
+	
+}
+
+form{
+	border:solid;
+	flex:1;
+	width:25%;
+	margin:20px;
+	padding:4px;
+}
+

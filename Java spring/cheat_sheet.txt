@@ -1,0 +1,26 @@
+First: add dependencies in pom.xml
+		<dependency>
+			<groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+        </dependency>
+		
+
+Second: Create WEB-INF folder
+in src/main/webapp/WEB-INF
+
+Third: Edit the src/main/resources/applications.properties
+add this coed to it : spring.mvc.view.prefix=/WEB-INF/
+
+Fourth: cretae JSP file within the WEB-INF folder
+
+Fifth: add following code to the jsp file <%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+
+Sixth: create the classcontroller
+
+Seventh: add the annotaions (@Controller) (@RequestMapping)
+
+Eigth: RunApplication
