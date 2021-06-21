@@ -46,7 +46,7 @@ public class BookService {
         }
     }
 
-	public Book updateBook(Long id, String title, String description, Integer numOfPages,String language) {
+	public Book updateBookApi(Long id, String title, String description, Integer numOfPages,String language) {
 		  	Book newBook = findBook(id);
 	        newBook.setTitle(title);
 	        newBook.setDescription(description);
@@ -56,6 +56,11 @@ public class BookService {
 		
 	}
 
+	public Book updateBook(Book book) {
+        return bookRepository.save(book);
 	
-	
+}
+	public Book deletBook(Book book) {
+        return bookRepository.save(book);
+	}
 }

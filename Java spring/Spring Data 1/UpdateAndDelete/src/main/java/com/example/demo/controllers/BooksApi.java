@@ -2,7 +2,6 @@ package com.example.demo.controllers;
 
 import java.util.List;
 
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -42,7 +41,7 @@ public class BooksApi {
 	public Book update(@PathVariable("id") Long id, @RequestParam(value = "title") String title,
 			@RequestParam(value = "description") String description, @RequestParam(value = "pages") Integer numOfPages,
 			@RequestParam(value = "language") String language) {
-		Book book = bookService.updateBook(id, title, description, numOfPages, language);
+		Book book = bookService.updateBookApi(id, title, description, numOfPages, language);
 //		bookService.updateBook(book);
 		return book;
 	}
