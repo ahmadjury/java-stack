@@ -71,7 +71,7 @@ public class BooksController {
 	        }
 	        
 	    }
-		@RequestMapping(value = "/books/{id}", method = RequestMethod.DELETE)
+		@RequestMapping(value = "/books/{id}", method=RequestMethod.DELETE)
 		public String delete(@PathVariable("id")Long id) {
 			bookService.deletBook(id);
 			return "redirect:/books";
