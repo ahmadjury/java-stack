@@ -45,9 +45,8 @@ public class Category {
 
 	public Category() {}
 
-	public Category(Long id, String name, List<Product> products) {
+	public Category(String name, List<Product> products) {
 		super();
-		this.id = id;
 		this.name = name;
 		this.products = products;
 	}

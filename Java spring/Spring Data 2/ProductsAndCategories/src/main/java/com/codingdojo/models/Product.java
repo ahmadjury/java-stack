@@ -2,7 +2,7 @@ package com.codingdojo.models;
 
 import java.util.Date;
 import java.util.List;
-import java.util.Locale.Category;
+
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -53,9 +53,8 @@ public class Product {
 	public Product(){	}
 
 
-	public Product(Long id, String name, String description, float price, List<Category> categories) {
+	public Product(String name, String description, float price, List<Category> categories) {
 		super();
-		this.id = id;
 		this.name = name;
 		this.description = description;
 		this.price = price;
